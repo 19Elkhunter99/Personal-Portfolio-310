@@ -2,20 +2,18 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of your software}
+{I want to show how to use python.}
 
-{Describe your purpose for creating this software.}
+{The purpose is show other people how they can be successful through learning the basics of programming.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Here is my demo video link](https://studio.youtube.com/video/c-XmXty1jx0/edit)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
+Visual Studio Code
+Git
+Python V- 3.13.5
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
